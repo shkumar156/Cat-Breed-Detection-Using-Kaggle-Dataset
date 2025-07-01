@@ -39,12 +39,7 @@ This project is a deep learning image classification model that identifies the *
 - Get the predicted **cat breed name** and confidence score
 - Works with unseen real-world cat images
 - 
-![ressss](https://github.com/user-attachments/assets/a68c62f8-0872-4a13-b2fb-8f0431ff59df)
-![ress7](https://github.com/user-attachments/assets/3ffb3580-868a-4bdc-b1f3-ba35a696d8db)
-![Resultt](https://github.com/user-attachments/assets/bd521ab2-d7d3-4bf6-a3a3-987ec039360b)
-![Output cat](https://github.com/user-attachments/assets/f93d81a3-986f-4edc-837e-73c21e657981)
 ---
-
 
 ## 📦 Files Included
 
@@ -55,6 +50,17 @@ This project is a deep learning image classification model that identifies the *
 
 ---
 
+## ✅ Results
+![Test6](https://github.com/user-attachments/assets/73c9ed0a-da4f-4fbe-bb3a-c47a3f2cfbac)
+![Test5](https://github.com/user-attachments/assets/b309f223-938e-4c26-a8d2-fb10bcd8e9b8)
+![Test4](https://github.com/user-attachments/assets/b58711b5-0a2b-4c82-9e5b-75deb67e3113)
+![Test3](https://github.com/user-attachments/assets/598cb741-7cd7-403b-89c7-fd83ed86623a)
+![Test2](https://github.com/user-attachments/assets/13aef4a4-5639-496b-b845-0beeef7d9fc0)
+![Test1](https://github.com/user-attachments/assets/4f7eb20b-6a1f-42d0-9e26-e63876edb63a)
+
+
+---
+
 ## ✅ Requirements
 
 ```bash
@@ -62,3 +68,4 @@ tensorflow
 tensorflow-datasets
 matplotlib
 numpy
+
