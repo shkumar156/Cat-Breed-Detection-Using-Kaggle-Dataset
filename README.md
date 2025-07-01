@@ -45,6 +45,14 @@ This project is a deep learning image classification model that identifies the *
 ![Output cat](https://github.com/user-attachments/assets/f93d81a3-986f-4edc-837e-73c21e657981)
 ---
 
+## Results
+![ressss](https://github.com/user-attachments/assets/a68c62f8-0872-4a13-b2fb-8f0431ff59df)
+![ress7](https://github.com/user-attachments/assets/3ffb3580-868a-4bdc-b1f3-ba35a696d8db)
+![Resultt](https://github.com/user-attachments/assets/bd521ab2-d7d3-4bf6-a3a3-987ec039360b)
+![Output cat](https://github.com/user-attachments/assets/f93d81a3-986f-4edc-837e-73c21e657981)
+
+---
+
 
 ## 📦 Files Included
 
